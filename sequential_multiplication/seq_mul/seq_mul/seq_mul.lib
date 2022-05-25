@@ -1,0 +1,46 @@
+timestamp=1622038275022
+
+[~A]
+ModifyID=12
+Version=73
+
+[seq_mul]
+A/seq_mul_arch=21|./../src/sequential_multiplication.vhd|14|1*0
+BinW64/seq_mul_arch=3*0
+I=0*680
+I/seq_mul_arch=0*1588
+M=11|2|vc1|1622038214799|./../src/sequential_multiplication.vhd|0*216*0x26e23d0fb87791d705d14964c543944f5d2a4e59|0*583*0x5eebbfaf24833dd780412b1f91e05209
+M/seq_mul_arch=21|2|vc1|1622038214801|./../src/sequential_multiplication.vhd|0*915*0x5a01b3abf177057cd1be4f551d9a4ecfe7539c41|0*1475*0x856b180bf611ec746a6bfcb1befebd18
+R=./../src/sequential_multiplication.vhd|5
+Version=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|41952a8e0f9bbaad69e1d401eac706b326527262ddaa47cb266f3a3c4d9b973a526f93f67cc6b9dacc623f0c8c0e7d25
+Version/seq_mul_arch=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|051a1328e56fea345f963906f004897bd1c3741706f6f4a2467d5b66684e8f5a43f7f9d65f9bfa731b1ea744cc06087d
+
+[seq_mul_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|./../src/TestBench/seq_mul_TB.vhd|11|1*2181
+BinW64/tb_architecture=3*679
+I=0*2246
+I/tb_architecture=I/TB_ARCHITECTURE 0*3326
+M=11|2|vc1|1622038274997|./../src/TestBench/seq_mul_TB.vhd|0*1912*0x6f682da4814ab3037b92c50bc622d84c48e2b2b4|0*2151*0x5eebbfaf24833dd780412b1f91e05209
+M/tb_architecture=M/TB_ARCHITECTURE 21|2|vc1|1622038274999|./../src/TestBench/seq_mul_TB.vhd|0*2484*0x7855d8730696f3ec58ad3ab72020ef0683ee4173|0*3212*0x856b180bf611ec746a6bfcb1befebd18
+R=./../src/TestBench/seq_mul_TB.vhd|8
+Version=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|3452f3d5663a37a72c3bd8261d04bd7292b18ad0ed0c1e5b7f7b4ad5a35b66e19edbed985679b2b267d16e7a25e5b2b9
+Version/tb_architecture=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534bea4c019b744bd1c16d94da7b7ad0b0b8bc
+
+[testbench_for_seq_mul]
+Configures=seq_mul_tb.TB_ARCHITECTURE
+E=1*4600
+I=0*4034
+M=2|2|vc1|1622038275003|./../src/TestBench/seq_mul_TB.vhd|0*3634*0xafaf5bd5c5394c62cf817f8e36899dbe076ed974|0*3915*0x856b180bf611ec746a6bfcb1befebd18
+R=./../src/TestBench/seq_mul_TB.vhd|66
+Version=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|5efd636a07bb57613e35fadc81a5c3e5d57cd079d9713f6e6728196ba4757b6f3bcceb0e3654b58cd6ee54b24a83c03a
+
+[~MFT]
+0=16|0seq_mul.mgf|4034|0
+1=2|1seq_mul.mgf|4600|0
+3=1|3seq_mul.mgf|679|0
+
+[~U]
+seq_mul=11|0*0|
+seq_mul_tb=11|0*1836|
+testbench_for_seq_mul=TESTBENCH_FOR_seq_mul 2||
+

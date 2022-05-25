@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: c:\My_Designs\sequential_multiplication\seq_mul\src\TestBench\seq_mul_TB.vhd" 
+MESSAGE "Compile Entity "seq_mul_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "seq_mul_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_seq_mul"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]" 
