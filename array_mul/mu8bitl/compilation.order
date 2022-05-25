@@ -1,0 +1,4 @@
+.\src\Array_Mul.vhd
+.\src\FullAdder.vhd
+.\src\HalfAdder.vhd
+.\src\TestBench\array_mul_TB.vhd

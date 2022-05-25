@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: C:\My_Designs\mul\mu8bitl\src\Array_Mul.vhd" 
+MESSAGE "Compile Entity "Array_Mul"" 
+MESSAGE "Compile Architecture "Array_Mul" of Entity "Array_Mul"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  32.0 [ms]" 

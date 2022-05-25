@@ -1,0 +1,91 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=mu8bitl
+
+[Library]
+mu8bitl=.\mu8bitl\mu8bitl.lib
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+CSYNTH_TOOL=<none>
+PHYSSYNTH_TOOL=<none>
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+DVM_DISPLAY=NO
+FAMILY=Lattice ECP2
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+mu8bitl=.
+Active_lib=
+
+[IMPLEMENTATION]
+UCF=
+
+[Groups]
+TestBench=1
+
+[Folders]
+Name3=Makefiles
+Directory3=c:\My_Designs\mul\mu8bitl\
+Extension3=mak
+Name4=Memory
+Directory4=c:\My_Designs\mul\mu8bitl\
+Extension4=mem;mif;hex
+Name5=Dll Libraries
+Directory5=c:\My_Designs\mul\mu8bitl\
+Extension5=dll
+Name6=PDF
+Directory6=c:\My_Designs\mul\mu8bitl\
+Extension6=pdf
+Name7=HTML
+Directory7=c:\My_Designs\mul\mu8bitl\
+Extension7=
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=fulladder_tb|TB_ARCHITECTURE|0   
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/Array_Mul.vhd=-1
+/FullAdder.vhd=-1
+/HalfAdder.vhd=-1
+TestBench/array_mul_TB.vhd=-1
+TestBench/array_mul_TB_runtest.do=-1
+
+[Files.Data]
+.\src\Array_Mul.vhd=VHDL Source Code
+.\src\FullAdder.vhd=VHDL Source Code
+.\src\HalfAdder.vhd=VHDL Source Code
+.\src\TestBench\array_mul_TB.vhd=VHDL Test Bench
+.\src\TestBench\array_mul_TB_runtest.do=Macro
+

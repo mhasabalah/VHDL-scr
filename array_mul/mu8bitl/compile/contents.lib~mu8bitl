@@ -1,0 +1,24 @@
+254
+~E 1 "./../src/ANDgate.vhd" 4 ANDgate
+~E 1 "./../src/TestBench/andgate_TB.vhd" 6 andgate_tb
+~A 1 "./../src/TestBench/andgate_TB.vhd" 9 TB_ARCHITECTURE
+~E 1 "./../src/Array_Mul.vhd" 4 Array_Mul
+~A 1 "./../src/Array_Mul.vhd" 12 Array_Mul
+~E 1 "./../src/TestBench/array_mul_TB.vhd" 6 array_mul_tb
+~A 1 "./../src/TestBench/array_mul_TB.vhd" 9 TB_ARCHITECTURE
+~E 1 "./../src/Fadder.vhd" 4 FA
+~A 1 "./../src/Fadder.vhd" 13 FAARCH
+~E 1 "./../src/adder_8bit.vhd" 4 FA_8bit
+~A 1 "./../src/adder_8bit.vhd" 11 FA_arch
+~E 1 "./../src/adder_8bit.vhd" 30 full_adder
+~A 1 "./../src/Fadder.vhd" 7 FA_arc
+~E 1 "./../src/FullAdder.vhd" 4 FullAdder
+~A 1 "./../src/FullAdder.vhd" 13 FullAdder_arch
+~E 1 "./../src/TestBench/fulladder_TB.vhd" 6 fulladder_tb
+~A 1 "./../src/TestBench/fulladder_TB.vhd" 9 TB_ARCHITECTURE
+~E 1 "./../src/HalfAdder.vhd" 4 HalfAdder
+~A 1 "./../src/HalfAdder.vhd" 13 HalfAdder_arch
+~E 1 "./../src/klfgmbm.vhd" 7 nonrestoring
+~C 1 "./../src/TestBench/andgate_TB.vhd" 40 testbench_for_andgate
+~C 1 "./../src/TestBench/array_mul_TB.vhd" 66 testbench_for_array_mul
+~C 1 "./../src/TestBench/array_mul_TB_tim_cfg.vhd" 1 timing_for_array_mul

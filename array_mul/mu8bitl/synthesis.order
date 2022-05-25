@@ -1,0 +1,5 @@
+i<>.\src\Fadder.vhd
+i<>.\src\adder_8bit.vhd
+i<>.\src\Array_Mul.vhd
+i<>.\src\HA_Adder.vhd
+i<>.\src\TestBench\array_mul_TB.vhd
