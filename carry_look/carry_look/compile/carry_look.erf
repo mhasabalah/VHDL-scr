@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: E:\1- teams\term 2\Computer archture\Practical Cases\VHDL scr\carry_look\carry_look\src\TestBench\carrylookahead_16bit_TB.vhd" 
+MESSAGE "Compile Entity "carrylookahead_16bit_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "carrylookahead_16bit_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_carrylookahead_16bit"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

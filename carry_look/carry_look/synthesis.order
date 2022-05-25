@@ -1,0 +1,6 @@
+i<>.\src\carry_lookahead_4bit.vhd
+i<>.\src\fulladder_pr.vhd
+i<>.\src\carry_lookahed_16bit.vhd
+i<>.\src\CarryLookAhead_16bit.vhd
+i<>.\src\TestBench\carrylookahead_16bit_TB.vhd
+i<>.\src\TestBench\carrylookahead_16bit_TB_tim_cfg.vhd

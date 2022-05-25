@@ -1,0 +1,89 @@
+timestamp=1622043630821
+
+[~A]
+ModifyID=89
+Version=73
+
+[carry_look_ahead]
+A/behavioral=A/Behavioral 21|./../src/carry_lookahead_4bit.vhd|14|1*29040
+BinW64/behavioral=3*4189
+I=0*6653
+I/behavioral=I/Behavioral 0*12702
+M=11|2|vc1|1622032259566|./../src/carry_lookahead_4bit.vhd|0*6193*0xf3d2e35074e239b04e774327324c4b7eff7086a1|0*6552*0x5eebbfaf24833dd780412b1f91e05209
+M/behavioral=M/Behavioral 21|2|vc1|1622034941053|./../src/carry_lookahead_4bit.vhd|0*6763*0x6d30cab5402b6ddade36bdb056fcdefe372a9310|0*7782*0x856b180bf611ec746a6bfcb1befebd18
+R=./../src/carry_lookahead_4bit.vhd|4
+Version=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|db138c8a4143e99eb01eb62e7e7f937afdd06a2490cfb24f5d0fa66274ca3f57853229dc48b2aaf92edb639d2923c564
+Version/behavioral=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff46aea1f19c8ebce648d4c15e899d3345d
+
+[carry_look_ahead_tb]
+I=0*9925
+M=11|2|vc1|1622034782703|./../src/TestBench/carry_look_ahead_TB.vhd|0*9600*0xe9098618008b1936c1e89089fc21ee7e0569a477|0*9812*0x5eebbfaf24833dd780412b1f91e05209
+R=./../src/TestBench/carry_look_ahead_TB.vhd|6
+Version=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|db138c8a4143e99eb01eb62e7e7f937a9cab81cd0e634d6316fcc992893ffc572f9b04dfc9a2c5523eae52a0bcc8b660
+
+[carrylookahead_16bit]
+A/behavioral=A/Behavioral 21|./../src/CarryLookAhead_16bit.vhd|13|1*24865
+BinW64/behavioral=3*3504
+I=0*5802
+I/behavioral=I/Behavioral 0*12513
+M=11|2|vc1|1622032216960|./../src/CarryLookAhead_16bit.vhd|0*5344*0xed65bae4b1d7bbb56f6c3b7ffa02625679f0cbe6|0*5697*0x5eebbfaf24833dd780412b1f91e05209
+M/behavioral=M/Behavioral 21|2|vc1|1622034941032|./../src/CarryLookAhead_16bit.vhd|0*8084*0x92c8e2d5324947eafca1f6c99aa433628700ac28|0*9189*0x856b180bf611ec746a6bfcb1befebd18
+R=./../src/CarryLookAhead_16bit.vhd|4
+Version=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|d3290863aebca5014d38210e76c4d3e212224e9fca2c7825563e66b1eb39e91e6a59da7bc55cc1003e6d8ac3b7cfadef
+Version/behavioral=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff45f0245d09f02e038041285e285f9ac96
+
+[carrylookahead_16bit_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|./../src/TestBench/carrylookahead_16bit_TB.vhd|9|1*40292
+BinW64/tb_architecture=3*5344
+I=0*10502
+I/tb_architecture=I/TB_ARCHITECTURE 0*15456
+M=11|2|vc1|1622034903716|./../src/TestBench/carrylookahead_16bit_TB.vhd|0*10153*0x4a65606bc3116885c639f2fe4b88ea6eb8e7025e|0*10381*0x5eebbfaf24833dd780412b1f91e05209
+M/tb_architecture=M/TB_ARCHITECTURE 21|2|vc1|1622043630731|./../src/TestBench/carrylookahead_16bit_TB.vhd|0*14435*0x23e4748df4498cc5e9d621c259ca2cf14420c938|0*15316*0x856b180bf611ec746a6bfcb1befebd18
+R=./../src/TestBench/carrylookahead_16bit_TB.vhd|6
+Version=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|d3290863aebca5014d38210e76c4d3e2774c3712c2a5a5344a2874471f9a9a1926527262ddaa47cb266f3a3c4d9b973a89b782be11715773cc96961e3064b851
+Version/tb_architecture=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534bead876d0604cdd53f6fd511d8fee259fdb
+
+[partial_full_adder]
+A/behavioral=A/Behavioral 21|./../src/fulladder_pr.vhd|14|1*32897
+BinW64/behavioral=3*4944
+I=0*2677
+I/behavioral=I/Behavioral 0*12889
+M=11|2|vc1|1622028764749|./../src/fulladder_pr.vhd|0*2269*0x3ada28073091af8b1792db6df74870dbe03ad60b|0*2582*0x5eebbfaf24833dd780412b1f91e05209
+M/behavioral=M/Behavioral 21|2|vc1|1622034941074|./../src/fulladder_pr.vhd|0*2789*0xe38f36029668ad57c2e653bbdda0ea6f457f1d6a|0*3012*0x856b180bf611ec746a6bfcb1befebd18
+R=./../src/fulladder_pr.vhd|4
+Version=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|cf3b86c45481e8bba4f5b114332b2038ed464765ab93b267b24a781fc33d1df29cf67ba890d42678c61263ff1d70b4cf
+Version/behavioral=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff48a25cadb9e839f44dbdce9d7809a9e01
+
+[tb_carry_look_ahead]
+A/behavior=21|./../src/TestBench/carry_look_ahead_TB.vhd|7|1*7654
+BinW64/behavior=3*1085
+I=0*3672
+I/behavior=0*4697
+M=11|2|vc1|1622028833530|./../src/TestBench/carry_look_ahead_TB.vhd|0*3347*0x28937594fe2797ed5d0e94d44cf4d8a10ba0ddd6|0*3559*0x5eebbfaf24833dd780412b1f91e05209
+M/behavior=21|2|vc1|1622028949286|./../src/TestBench/carry_look_ahead_TB.vhd|0*3785*0x7d8127395aff2213a36b0668141c1458c5ab34ab|0*4572*0x856b180bf611ec746a6bfcb1befebd18
+R=./../src/TestBench/carry_look_ahead_TB.vhd|4
+Version=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|87fd8a0c418977ac181bbe33b0a9651962bd9ab76e00c001dfc160c7560360b7fa476167ab39e94287bd35f154432a56
+Version/behavior=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|f9bccf16e2dce5a640f0ad5e8eaa0283e08d679eaf1bc9de9439630905b37e5f77c2c0c69dd9d19fbef750ff83989a51
+
+[testbench_for_carrylookahead_16bit]
+Configures=carrylookahead_16bit_tb.TB_ARCHITECTURE
+E=1*42892
+I=0*12382
+M=2|2|vc1|1622043630743|./../src/TestBench/carrylookahead_16bit_TB.vhd|0*11841*0x72ec733fe1b032a7e99a94c550be3bb16f3be4e9|0*12224*0x856b180bf611ec746a6bfcb1befebd18
+R=./../src/TestBench/carrylookahead_16bit_TB.vhd|66
+Version=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|5efd636a07bb57613e35fadc81a5c3e5df35b8a4b4f4d16f240d5f24fea75a01f2d4281ac114633c1decdb6b000100d0b99c4c168921e340d2f17fc82c04d1f1
+
+[~MFT]
+0=79|0carry_look.mgf|15456|5355
+1=29|1carry_look.mgf|42892|28632
+3=22|3carry_look.mgf|5344|3014
+
+[~U]
+carry_look_ahead=Carry_Look_Ahead 11|0*5916|
+carry_look_ahead_tb=11|0*9497|
+carrylookahead_16bit=CarryLookAhead_16bit 11|0*5070|
+carrylookahead_16bit_tb=11|0*10038|
+partial_full_adder=Partial_Full_Adder 11|0*2024|
+tb_carry_look_ahead=Tb_Carry_Look_Ahead 11|0*3244|
+testbench_for_carrylookahead_16bit=TESTBENCH_FOR_carrylookahead_16bit 2||
+

@@ -1,0 +1,10 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom -O3 -work carry_look -2002  $dsn/src/TestBench/carrylookahead_16bit_TB.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:\1- teams\term 2\Computer archture\Practical Cases\VHDL scr\carry_look\carry_look\src\TestBench\carrylookahead_16bit_TB.vhd
+# Compile Entity "carrylookahead_16bit_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "carrylookahead_16bit_tb"
+# Compile Configuration "TESTBENCH_FOR_carrylookahead_16bit"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]

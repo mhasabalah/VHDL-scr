@@ -1,0 +1,13 @@
+89
+~E 1 "./../src/carry_lookahead_4bit.vhd" 4 Carry_Look_Ahead
+~A 1 "./../src/carry_lookahead_4bit.vhd" 14 Behavioral
+~E 1 "./../src/TestBench/carry_look_ahead_TB.vhd" 6 carry_look_ahead_tb
+~E 1 "./../src/CarryLookAhead_16bit.vhd" 4 CarryLookAhead_16bit
+~A 1 "./../src/CarryLookAhead_16bit.vhd" 13 Behavioral
+~E 1 "./../src/TestBench/carrylookahead_16bit_TB.vhd" 6 carrylookahead_16bit_tb
+~A 1 "./../src/TestBench/carrylookahead_16bit_TB.vhd" 9 TB_ARCHITECTURE
+~E 1 "./../src/fulladder_pr.vhd" 4 Partial_Full_Adder
+~A 1 "./../src/fulladder_pr.vhd" 14 Behavioral
+~E 1 "./../src/TestBench/carry_look_ahead_TB.vhd" 4 Tb_Carry_Look_Ahead
+~A 1 "./../src/TestBench/carry_look_ahead_TB.vhd" 7 behavior
+~C 1 "./../src/TestBench/carrylookahead_16bit_TB.vhd" 66 testbench_for_carrylookahead_16bit
