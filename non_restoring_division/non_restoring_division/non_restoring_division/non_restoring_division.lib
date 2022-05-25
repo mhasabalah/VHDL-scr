@@ -1,0 +1,46 @@
+timestamp=1622037972693
+
+[~A]
+ModifyID=18
+Version=73
+
+[non_restoring_div]
+A/non_restoring_div_arch=21|./../src/non_div.vhd|12|1*5029
+BinW64/non_restoring_div_arch=3*1173
+I=0*724
+I/non_restoring_div_arch=0*4381
+M=11|2|vc1|1622037842834|./../src/non_div.vhd|0*265*0xcfedb7967f41206547cb5cd47f93fc7c0316d978|0*635*0x5eebbfaf24833dd780412b1f91e05209
+M/non_restoring_div_arch=21|2|vc1|1622037972676|./../src/non_div.vhd|0*904*0x42adf4d5115f4139187e5ae623d80e4af1ad17b7|0*1550*0x856b180bf611ec746a6bfcb1befebd18
+R=./../src/non_div.vhd|4
+Version=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|4adc4cf84896c0021431ae1538e2fcb169b2dee97de58479cbd4b844b668dfe9287fd41c3db826cd8e0b846e1ef2900a
+Version/non_restoring_div_arch=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|4adc4cf84896c0021431ae1538e2fcb13257ea5c43a03134fb3d3c0888137bb648df62cb53245ba648cd5430ed83c657
+
+[non_restoring_div_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|./../src/TestBench/non_restoring_div_TB.vhd|10|1*2132
+BinW64/tb_architecture=3*707
+I=0*2338
+I/tb_architecture=I/TB_ARCHITECTURE 0*3473
+M=11|2|vc1|1622037955483|./../src/TestBench/non_restoring_div_TB.vhd|0*1974*0xb3eae9f9e109c2b23847ea5b61b79b904ebd7f14|0*2223*0x5eebbfaf24833dd780412b1f91e05209
+M/tb_architecture=M/TB_ARCHITECTURE 21|2|vc1|1622037955485|./../src/TestBench/non_restoring_div_TB.vhd|0*2521*0x6de81e27b6eb4b85ae86a7be428d74ea281de522|0*3339*0x856b180bf611ec746a6bfcb1befebd18
+R=./../src/TestBench/non_restoring_div_TB.vhd|7
+Version=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|4adc4cf84896c0021431ae1538e2fcb176ddbb1559a2f8d6f911803304c42fd9344e7bea28c902d992e8fea47093742a
+Version/tb_architecture=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534bea71ee327c6706d92b4445f8243d9878d8
+
+[testbench_for_non_restoring_div]
+Configures=non_restoring_div_tb.TB_ARCHITECTURE
+E=1*4518
+I=0*4256
+M=2|2|vc1|1622037955489|./../src/TestBench/non_restoring_div_TB.vhd|0*3736*0x5b13c0f47fc5b90c1ada7d5f41035618e678d2a0|0*4107*0x856b180bf611ec746a6bfcb1befebd18
+R=./../src/TestBench/non_restoring_div_TB.vhd|64
+Version=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|5efd636a07bb57613e35fadc81a5c3e5632b497cedffb67a2be2d9c6e9d0d14c697e87978b00d4dd1fb68cb9e81eca2807c791d19f84e61895d313e1ddf892e1
+
+[~MFT]
+0=18|0non_restoring_division.mgf|4381|203
+1=4|1non_restoring_division.mgf|5029|2132
+3=3|3non_restoring_division.mgf|1173|707
+
+[~U]
+non_restoring_div=11|0*0|
+non_restoring_div_tb=11|0*1868|
+testbench_for_non_restoring_div=TESTBENCH_FOR_non_restoring_div 2||
+

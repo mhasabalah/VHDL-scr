@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\non_restouring\library.cfg"  -j "c:\My_Designs\non_restouring\non_restoring_division\projlib.cfg"  -d "c:\My_Designs\non_restouring\non_restoring_division\compile"   -work non_restoring_division  -O3 -e 100 -2002 "c:/My_Designs/non_restouring/non_restoring_division/src/non_div.vhd"

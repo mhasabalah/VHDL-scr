@@ -1,0 +1,6 @@
+18
+~E 1 "./../src/non_div.vhd" 4 non_restoring_div
+~A 1 "./../src/non_div.vhd" 12 non_restoring_div_arch
+~E 1 "./../src/TestBench/non_restoring_div_TB.vhd" 7 non_restoring_div_tb
+~A 1 "./../src/TestBench/non_restoring_div_TB.vhd" 10 TB_ARCHITECTURE
+~C 1 "./../src/TestBench/non_restoring_div_TB.vhd" 64 testbench_for_non_restoring_div

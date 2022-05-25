@@ -1,0 +1,12 @@
+[Version]
+Version=10.1
+[Designs]
+non_restoring_division=.\non_restoring_division\non_restoring_division.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+non_restoring_division=1

@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: c:\My_Designs\non_restouring\non_restoring_division\src\non_div.vhd" 
+MESSAGE "Compile Entity "non_restoring_div"" 
+MESSAGE "Compile Architecture "non_restoring_div_arch" of Entity "non_restoring_div"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]" 

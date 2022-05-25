@@ -1,0 +1,57 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=3
+Current Config=compile
+[Configurations]
+compile=non_restoring_division
+[Library]
+non_restoring_division=.\non_restoring_division\non_restoring_division.lib
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+CSYNTH_TOOL=<none>
+PHYSSYNTH_TOOL=<none>
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+DVM_DISPLAY=NO
+FAMILY=Lattice ECP2
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+[LocalVhdlSets]
+CompileWithDebug=0
+[$LibMap$]
+non_restoring_division=.
+Active_lib=
+[IMPLEMENTATION]
+UCF=
+[Files]
+/non_div.vhd=-1
+TestBench/non_restoring_div_TB.vhd=-1
+TestBench/non_restoring_div_TB_runtest.do=-1
+[Files.Data]
+.\src\non_div.vhd=VHDL Source Code
+.\src\TestBench\non_restoring_div_TB.vhd=VHDL Test Bench
+.\src\TestBench\non_restoring_div_TB_runtest.do=Macro
+[Groups]
+TestBench=1
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=non_restoring_div|non_restoring_div_arch|0   
+ShowHide=ShowTopLevel
+Selected=
