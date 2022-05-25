@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: C:\My_Designs\add_sup\ADD_SUP8bit\src\TestBench\add_sub_TB.vhd" 
+MESSAGE "Compile Entity "add_sub_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "add_sub_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_add_sub"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]" 

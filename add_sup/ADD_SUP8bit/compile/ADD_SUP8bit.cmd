@@ -1,0 +1,1 @@
+-w -s "C:\My_Designs\add_sup\library.cfg"  -j "C:\My_Designs\add_sup\ADD_SUP8bit\projlib.cfg"  -d "C:\My_Designs\add_sup\ADD_SUP8bit\compile"   -work ADD_SUP8bit  -O3 -e 100 -2002 "C:/My_Designs/add_sup/ADD_SUP8bit/src/TestBench/add_sub_TB.vhd"

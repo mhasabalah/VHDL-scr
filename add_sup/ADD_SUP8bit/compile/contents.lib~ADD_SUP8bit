@@ -1,0 +1,23 @@
+117
+~E 1 "./../src/addersubtractor.vhd" 4 ADD_SUB
+~A 1 "./../src/addersubtractor.vhd" 15 ADD_SUB_ARCH
+~E 1 "./../src/TestBench/add_sub_TB.vhd" 6 add_sub_tb
+~A 1 "./../src/TestBench/add_sub_TB.vhd" 9 TB_ARCHITECTURE
+~E 1 "./../src/addersubtractor.vhd" 4 addsup
+~A 1 "./../src/addersubtractor.vhd" 18 addsuparch
+~E 1 "./../src/FULLADDER.vhd" 4 FA
+~A 1 "./../src/FULLADDER.vhd" 13 FAARCH
+~E 1 "./../src/TestBench/fa_TB.vhd" 6 fa_tb
+~A 1 "./../src/TestBench/fa_TB.vhd" 9 TB_ARCHITECTURE
+~E 1 "./../src/Ripple_Adder_4bit.vhd" 4 Ripple_Adder
+~A 1 "./../src/Ripple_Adder_4bit.vhd" 14 Behavioral
+~E 1 "./../src/TestBench/ripple_adder_TB.vhd" 6 ripple_adder_tb
+~A 1 "./../src/TestBench/ripple_adder_TB.vhd" 9 TB_ARCHITECTURE
+~C 1 "./../src/TestBench/add_sub_TB.vhd" 68 testbench_for_add_sub
+~C 1 "./../src/TestBench/fa_TB.vhd" 81 testbench_for_fa
+~C 1 "./../src/TestBench/ripple_adder_TB.vhd" 72 testbench_for_ripple_adder
+~C 1 "./../src/TestBench/xorgate_TB.vhd" 73 testbench_for_xorgate
+~E 1 "./../src/XORGATE.vhd" 4 xorgate
+~A 1 "./../src/XORGATE.vhd" 11 xorarch
+~E 1 "./../src/TestBench/xorgate_TB.vhd" 6 xorgate_tb
+~A 1 "./../src/TestBench/xorgate_TB.vhd" 9 TB_ARCHITECTURE

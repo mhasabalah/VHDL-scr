@@ -1,0 +1,76 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=ADD_SUP8bit
+
+[Library]
+ADD_SUP8bit=.\ADD_SUP8bit\ADD_SUP8bit.lib
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+CSYNTH_TOOL=<none>
+PHYSSYNTH_TOOL=<none>
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+DVM_DISPLAY=NO
+FAMILY=Lattice ECP2
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+ADD_SUP8bit=.
+Active_lib=
+
+[IMPLEMENTATION]
+UCF=
+
+[Groups]
+TestBench=1
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=add_sub_tb|TB_ARCHITECTURE|0     
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/addersubtractor.vhd=-1
+/XORGATE.vhd=-1
+/FULLADDER.vhd=-1
+/Ripple_Adder_4bit.vhd=-1
+TestBench/add_sub_TB.vhd=-1
+TestBench/add_sub_TB_runtest.do=-1
+
+[Files.Data]
+.\src\addersubtractor.vhd=VHDL Source Code
+.\src\XORGATE.vhd=VHDL Source Code
+.\src\FULLADDER.vhd=VHDL Source Code
+.\src\Ripple_Adder_4bit.vhd=VHDL Source Code
+
+.\src\TestBench\add_sub_TB.vhd=VHDL Test Bench
+.\src\TestBench\add_sub_TB_runtest.do=Macro
